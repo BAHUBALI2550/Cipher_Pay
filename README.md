@@ -1,6 +1,6 @@
 # cipher_pay
 
-A Crypto Payment App where you can pay through your crypto assets and the seller of the product can you whether to receive the payment in crypto or off ramp the money directly to their bank account.
+A Crypto Payment App where you can pay through your crypto assets and the seller of the product can select whether to receive the payment in crypto or off ramp the money directly to their bank account.
 
 ## Getting Started
 
